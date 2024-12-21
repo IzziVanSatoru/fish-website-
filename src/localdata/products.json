@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Fishing Rod", "price": 29.99, "category": "Pancingan", "image": "/assets/fishing-rod.jpg" },
+  { "id": 2, "name": "Fishing Bait", "price": 5.99, "category": "Umpan", "image": "/assets/fishing-bait.jpg" },
+  { "id": 3, "name": "Fishing Basket", "price": 15.99, "category": "Keranjang", "image": "/assets/fishing-basket.jpg" }
+]
